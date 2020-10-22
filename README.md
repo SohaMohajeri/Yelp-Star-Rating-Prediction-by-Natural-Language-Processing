@@ -1,5 +1,7 @@
 # Yelp Star Rating Prediction by Natural Language Processing
 
+![6](https://user-images.githubusercontent.com/69224996/96832144-2691c480-13f3-11eb-8e5a-b451a33525d1.png)
+
 Yelp is a local business directory service and review site with social networking features. It allows users to give ratings and review businesses. The review is usually short text consisting of few lines with about hundred words. Often, a review describes various dimensions about a business and the experience of user with respect to those dimensions. 
 
 In this notebook we will use Yelt Reviews Dataset. Each observation in this dataset is a review of a particular business by a particular user. The "stars" column is the number of stars (1 through 5) assigned by the reviewer to the business. In other words, it is the rating of the business by the person who wrote the review, and higher stars is better. The "cool" column is the number of "cool" votes this review received from other Yelp users. The "useful" and "funny" columns are similar to the "cool" column.
