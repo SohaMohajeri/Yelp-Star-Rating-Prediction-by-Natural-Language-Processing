@@ -19,5 +19,4 @@ In this notebook we will use Yelp Reviews Dataset. Each observation in this data
 
 The objective of this Natural Language Processing  project is to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews. For this purpose, first we will perform exploratory data analysis. Afterwards, we will build three different models including Random Forest, Naive-Bayes and passive Agressive Classifiers and fit the models and use them with and without text preprocessing and with only removing the stop words. Ultimately, the accuracy scores and the confusion matrices will tell us how well our models perform. 
 
-
 </div>
