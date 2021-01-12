@@ -10,7 +10,6 @@
 
 <br />
 
-
 <div align="justify">
 
 Yelp is a local business directory service and review site with social networking features. It allows users to give ratings and review businesses. The review is usually short text consisting of few lines with about hundred words. Often, a review describes various dimensions about a business and the experience of user with respect to those dimensions. 
